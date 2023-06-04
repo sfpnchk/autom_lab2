@@ -1,0 +1,1 @@
+# autom_lab2
