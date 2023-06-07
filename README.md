@@ -1,1 +1,1 @@
-# autom_lab2
+# Sofiia Pinchuk
