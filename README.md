@@ -1,1 +1,1 @@
-# Sofiia Pinchuk (main branch)
+# Sofiia Pinchuk (develop branch)
